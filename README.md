@@ -21,6 +21,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollage1.png" width="49%" />
+  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollage2.png" width="49%" />
+</p>
+
+---
+
 ## 🛠️ Tecnologías Utilizadas
 
 * **Framework:** [Flutter]
@@ -32,7 +39,8 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/hex-collage-pro.git](https://github.com/tu-usuario/hex-collage-pro.git)
+
+   git clone https://github.com/Jaypsmall/HexCollagePro.git
 
 ---
 
