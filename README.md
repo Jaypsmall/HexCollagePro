@@ -1,17 +1,43 @@
-# hexcollagepro
+# Hex Collage Pro 🎨✨
 
-A new Flutter project.
+**Hex Collage Pro** es una aplicación móvil de estudio de arte creativo desarrollada en **Flutter**, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Características Principales
 
-A few resources to get you started if this is your first Flutter project:
+* **Estudio de Importación:** Acceso rápido a las fotos y álbumes del dispositivo para seleccionar las imágenes que formarán parte del collage
+* **Modos de Arte:** Diversos estilos preconfigurados para adaptar el diseño de las composiciones:
+  * *Clean*
+  * *Rap Style*
+  * *Total Chaos*
+  * *Videoclip*
+* **Motor de Ajustes Avanzado:** Personalización detallada de los parámetros de la obra
+  * Control de número de **Capas**
+  * Control de cantidad de **Héroes**
+  * Activación de **Rotación Dinámica**
+  * Activación de **Fondo Caótico**
+* **Exportación Rápida:** Botón dedicado para exportar el resultado final de forma inmediata
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologías Utilizadas
+
+* **Framework:** [Flutter]
+* **Lenguaje:** Dart
+
+---
+
+## 📱 Instalación y Ejecución
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/tu-usuario/hex-collage-pro.git](https://github.com/tu-usuario/hex-collage-pro.git)
+
+---
+
+## 📄 Licencia & Copyright
+
+Copyright © 2026. Todos los derechos reservados. El código fuente de esta aplicación es propiedad privada del desarrollador. Se prohíbe la reproducción, distribución o modificación no autorizada de este software. 
+
+Desarrollado con 🧡 por un desarrollador independiente. 
