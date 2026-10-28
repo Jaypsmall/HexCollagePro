@@ -1,4 +1,4 @@
-# 🎨 HexCollage Pro ✨
+# 🎨 HexCollage Pro ✨  ![Flutter](https://img.shields.io/badge/Flutter-181717?style=flat&logo=flutter&logoColor=FFD600) ![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=flat&logo=kotlin&logoColor=FFD600) 
 
 **HexCollage Pro** es una aplicación móvil de estudio de arte creativo desarrollada en **Flutter**, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada
 
