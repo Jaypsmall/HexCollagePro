@@ -34,9 +34,9 @@
 * **Lenguaje:** Dart
 
 <p align="center">
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" /></a> &nbsp;&nbsp;
-  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" /></a> &nbsp;&nbsp;
-  <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="30" alt="Dart" /></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" alt="Kotlin" /></a> &nbsp;&nbsp;
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="50" alt="Flutter" /></a> &nbsp;&nbsp;
+  <a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="50" alt="Dart" /></a>
 </p>
 
 ---
