@@ -22,8 +22,9 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollage1.png" width="49%" />
-  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollage2.png" width="49%" />
+  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollagepro1.png"  width="270"  />
+  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollagepro2.png"  width="270"  />
+  <img src="https://github.com/Jaypsmall/HexCollagePro/raw/master/assest/hexcollagepro3.png"  width="270"  />
 </p>
 
 ---
