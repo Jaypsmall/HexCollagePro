@@ -2,6 +2,10 @@
 
 **HexCollage Pro** es una aplicación móvil de estudio de arte creativo desarrollada en **Flutter**, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada
 
+<a href="https://github.com/Jaypsmall/HexCollagePro/releases/download/flutter/HexCollagePro_v1.0.flutter.apk">
+<img src="https://img.shields.io/badge/DOWNLOAD_HEXCOLLAGE_PRO_v1.0.FLUTTER_APK-181717?style=flat&logo=android&logoColor=green" alt="Download flutter Release">
+</a>
+
 ---
 
 ## 🚀 Características Principales
