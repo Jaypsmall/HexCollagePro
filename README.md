@@ -1,10 +1,11 @@
 # 🎨 HexCollage Pro ✨  ![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=flat&logo=kotlin&logoColor=C81AEE) ![Flutter](https://img.shields.io/badge/Flutter-181717?style=flat&logo=flutter&logoColor=70B9EC) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin"><a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="30" alt="Flutter" >
 
-**HexCollage Pro** es una aplicación móvil de estudio de arte creativo desarrollada en **Flutter**, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada
+**HexCollage Pro** es una aplicación móvil de estudio de arte creativo desarrollada en **Flutter**, diseñada para generar collages y composiciones visuales dinámicas con una interfaz fluida y un elegante diseño de temática oscura y dorada. 
 
 <a href="https://github.com/Jaypsmall/HexCollagePro/releases/download/flutter/HexCollagePro_v1.0.flutter.apk">
-<img src="https://img.shields.io/badge/DOWNLOAD_HEXCOLLAGE_PRO_v1.0.FLUTTER_APK-181717?style=flat&logo=android&logoColor=green" alt="Download flutter Release">
-</a>
+    <img src="https://img.shields.io/badge/📥_DESCARGAR_HEXCOLLAGE_PRO_v1.0.FLUTTER_APK-181717?style=for-the-badge&logo=android&logoColor=00FF66" alt="Descargar APK">
+  </a>
+
 
 ---
 
